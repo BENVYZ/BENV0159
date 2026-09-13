@@ -51,12 +51,14 @@ conda install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ## Weekly Topics
 
-1. Week 01: Python packages, CSV import, and pandas DataFrame basics
-2. Week 02: Data selection, filtering, and basic data checking
-3. Week 03: Data cleaning and missing values
-4. Week 04: Data grouping and summary statistics
-5. Week 05: Data visualisation with matplotlib and seaborn
-6. Week 06: Merging datasets and working with multiple tables
-7. Week 07: Introduction to machine learning with scikit-learn
-8. Week 08: Course project and review
-
+| Tutorial | Key contents |
+| --- | --- |
+| Week 01 | Python basics recap; exploratory data analysis (EDA) |
+| Week 02 | EDA: using a supermarket dataset to better understand when and where consumers are more likely to buy different products |
+| Week 03 | London fuel poverty spatial autocorrelation; EDA |
+| Week 04 | London housing price prediction Part II; machine learning pipelines |
+| Week 05 | London housing price prediction Part II; machine learning pipelines |
+| Reading week | Independent study and review |
+| Week 06 | Machine learning for predicting household electricity consumption based on smart meter data; regression, logistic regression, and SVM |
+| Week 07 | Exploring predictors for energy poverty in London using machine learning; decision trees, classification trees, and regression trees |
+| Week 08 | Customer churn prediction; random forest and AdaBoost |
