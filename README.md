@@ -51,14 +51,15 @@ conda install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ## Weekly Topics
 
-| Tutorial | Key contents |
-| --- | --- |
-| Week 01 | Python basics recap; exploratory data analysis (EDA) |
-| Week 02 | EDA: using a supermarket dataset to better understand when and where consumers are more likely to buy different products |
-| Week 03 | London fuel poverty spatial autocorrelation; EDA |
-| Week 04 | London housing price prediction Part II; machine learning pipelines |
-| Week 05 | London housing price prediction Part II; machine learning pipelines |
-| Reading week | Independent study and review |
-| Week 06 | Machine learning for predicting household electricity consumption based on smart meter data; regression, logistic regression, and SVM |
-| Week 07 | Exploring predictors for energy poverty in London using machine learning; decision trees, classification trees, and regression trees |
-| Week 08 | Customer churn prediction; random forest and AdaBoost |
+| Tutorial | Key contents |Key focuses |
+| --- | --- | --- |
+| Week 01 | Python basics recap | import, read csv |
+| Week 02 | EDA: using a supermarket dataset to better understand when and where consumers are more likely to buy different products | EDA|
+| Week 03 | London fuel poverty spatial autocorrelation|  EDA |
+| Week 04 | London housing price prediction Part I|  machine learning pipelines |
+| Week 05 | London housing price prediction Part II|  machine learning pipelines |
+| Reading week | Independent study and review | recap | 
+| Week 06 | Machine learning for predicting household electricity consumption based on smart meter data| regression, logistic regression, and SVM |
+| Week 07 | Exploring predictors for energy poverty in London using machine learning| decision trees, classification trees, and regression trees |
+| Week 08 | Customer churn prediction| Ensemble learning: random forest and AdaBoost |
+
