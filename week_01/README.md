@@ -1,6 +1,7 @@
 # Week 01
 
 Purpose of Today's Tutorial
+
 The purpose of today's tutorial is to help students understand the basic workflow of working with datasets in Python. Students will learn how to prepare their Python environment, import data, check the structure of a dataset, select the data they need, and combine different datasets for further analysis.
 
 Key Knowledge Points
